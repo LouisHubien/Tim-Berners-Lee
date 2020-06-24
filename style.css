@@ -1,0 +1,114 @@
+body {
+    background-color: rgb(185, 182, 182);
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px
+}
+
+.links {
+    font-size: 30px;
+    text-decoration: none;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-top: 10px;
+    word-spacing: 30px
+}
+
+.div {
+    background-color: white;
+    color:  rgb(174, 174, 174) ;
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    word-spacing: 2px;
+    border-radius: 5px
+}
+
+img {
+    height: 150px;
+    width: 100px;
+    margin-left: 30px;
+    margin-bottom: 20px
+}
+
+.fa {
+    color: rgb(174, 174, 174) 
+}
+
+p {
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: left
+}
+
+.movies {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.a {
+    text-decoration: none
+}
+
+span {
+    font-size: 20px
+}
+
+h1 {
+    font-size: 30px;
+    font-weight: bold;
+    color:  rgb(238, 49, 49)
+}
+
+h1,
+h2 {
+    margin-top: 5%
+}
+
+h2 {
+    font-size: 20px
+}
+
+h2,
+h3,
+h4 {
+    color: rgb(40, 40, 40);
+    text-align: center
+}
+
+.timimg {
+    border-radius: 50%;
+    width: 150px;
+    height: 150%;
+    border: 3px solid  rgb(174, 174, 174) ;
+    margin-top: 5%;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+
+b,
+h2,
+h4 {
+    color: rgb(30, 30, 30)
+}
+
+mark {
+    background-color: rgb(174, 174, 174) 
+}
+
+button {
+    background-color: rgb(238, 49, 49);
+    border-radius: 5px;
+    color: white;
+    width: 150px;
+    height: 40px;
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 20px
+}
+
+.text {
+    color:  rgb(174, 174, 174);
+    font-size: 18px
+}
